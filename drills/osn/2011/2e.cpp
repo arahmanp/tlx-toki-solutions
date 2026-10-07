@@ -1,7 +1,7 @@
 // problem: 2E - Kursi Konser
 // contest: OSN Informatika 2011
 // tags: implementation
-// status: -
+// status: Accepted
 
 #include <algorithm>
 #include <ios>
