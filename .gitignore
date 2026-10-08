@@ -1,5 +1,6 @@
 .vscode/
 **/build/
 *.out
+*.in
 *.exe
 *.o
