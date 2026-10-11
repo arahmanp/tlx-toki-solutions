@@ -1,5 +1,5 @@
 CompileFlags:
-  Compiler: /usr/bin/g++
+  Compiler: C:\Users\andhikar\scoop\apps\mingw\current\bin\g++.exe
   Add:
     - -std=c++20
     - -Wall
