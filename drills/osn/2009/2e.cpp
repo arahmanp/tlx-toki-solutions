@@ -26,6 +26,5 @@ int main() {
             else dq.pop_front();
         }
     }
-
     for(auto el : dq) std::cout << el << '\n';
 }
